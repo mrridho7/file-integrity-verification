@@ -1,0 +1,10 @@
+skenario,sha256_sesuai,hmac_sesuai,harapan_sesuai,lulus
+salinan_tanpa_perubahan,True,True,True,True
+perubahan_1_bit,False,False,False,True
+perubahan_1_huruf,False,False,False,True
+penambahan_1_byte,False,False,False,True
+penghapusan_1_byte,False,False,False,True
+file_kosong,False,False,False,True
+konten_biner_256_byte,False,False,False,True
+file_dan_manifest_sha256_diganti,True,False,False,True
+kunci_hmac_salah,tidak berlaku,False,False,True

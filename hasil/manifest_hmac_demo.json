@@ -1,0 +1,6 @@
+{
+  "algorithm": "HMAC-SHA256",
+  "filename": "asli.txt",
+  "size_bytes": 22,
+  "tag": "d6f8823a1ce8d43dcf6b783ef94dedfe90c4590d24ed7b5c76d2bcceeb729701"
+}

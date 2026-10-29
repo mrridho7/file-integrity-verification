@@ -1,0 +1,9 @@
+{
+  "python": "3.11.0",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel(R) Core(TM) Ultra 7 155H",
+  "repetisi_per_ukuran": 50,
+  "seed": 42,
+  "pengukuran": "waktu total hashing termasuk pembacaan file; cache tidak dikendalikan",
+  "waktu_utc": "2026-10-26T16:58:54.823540+00:00"
+}
